@@ -1,0 +1,14 @@
+[2026-10-22 11:24:43] picX.png
+Опис: A view of a car driving down a road
+TTS-модель: facebook/mms-tts-eng
+Аудіо: output\picX_description.wav
+
+[2026-10-22 11:25:53] picX.png
+Опис: A view of a car driving down a road
+Аудіо: output\picX_description.wav
+
+[2026-10-22 11:44:32] picX.png
+Опис: A view of a car driving down a road
+TTS-модель: suno/bark-small
+Аудіо: output\picX_description.wav
+
